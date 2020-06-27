@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_shop"
+            android:icon="@drawable/commerce"
+            android:title="Add Shop" />
+
+        <item
+            android:id="@+id/nav_report"
+            android:icon="@drawable/book"
+            android:title="View Reports" />
+        <item
+            android:id="@+id/add_Item"
+            android:icon="@drawable/menu"
+            android:title="Add Item" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:title="Logout" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/ctns"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Contact-Us" />
+        </menu>
+    </item>
+
+</menu>

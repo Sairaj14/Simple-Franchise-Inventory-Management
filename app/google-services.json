@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "385858947741",
+    "firebase_url": "https://franchisehelper-92328.firebaseio.com",
+    "project_id": "franchisehelper-92328",
+    "storage_bucket": "franchisehelper-92328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385858947741:android:05b10483b2cf0a8e",
+        "android_client_info": {
+          "package_name": "com.example.hp.franchisehelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385858947741-fj6tr174ul3l9oqft4a7mdk5jjqsv0bi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.franchisehelper",
+            "certificate_hash": "ddcf63b598fb98abcd2fab4d2413e872c9b980b4"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDAnUvRSYfQvyAmgmFFJrmRUUgbHKu2Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385858947741-12eb0r9gv2qi51b5cbs4sp2e7tupa32r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
